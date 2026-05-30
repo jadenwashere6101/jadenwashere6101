@@ -33,3 +33,4 @@ Nginx · GitHub Actions · OpenTelemetry · Linux
 -  TryHackMe SOC Level 1 — In Progress
 -  Building at Lotek Innovations
 -  Maryland | Open to security engineering roles May 2027
+-  [LinkedIn](https://linkedin.com/in/jaden-gomez-a6a32b33b)
