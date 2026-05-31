@@ -1,4 +1,4 @@
-# Hi, I'm Jaden Gomez
+# Hi, I'm Jaden Gomez - [LinkedIn](https://linkedin.com/in/jaden-gomez-a6a32b33b)
 
 Rising senior Information Systems student at UMBC building toward 
 a career in security engineering and detection engineering.
